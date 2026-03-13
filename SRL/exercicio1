@@ -1,1 +1,13 @@
+1- Partilhar ficheiros: Pastas partilhadas com permissoes especificas
+   Autentificacao de utilizador: um servico dre autentificacao que obriga os utilizadores a fazer login com credencias proprias
+   Monotorizacao de seguranca: um sistema de registro de eventos e tentativas de acesso nao autorizado
+
+2- O usuário terá seu endereço IP bloqueado pelos RGH e não poderá tentar entrar novamente.
+
+3- Gestao de permissoes e recursos
+
+4- Permite que varias pessoas utilizam a mesma impresa sem terem de estar fisicamente ligados a ela
+
+5- Deteta falha, agera alerta em caso de problemas
+
 
